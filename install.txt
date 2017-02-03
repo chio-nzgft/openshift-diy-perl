@@ -1,6 +1,6 @@
-export HOME=/var/lib/openshift/5847da192d527181d500012c/diy
-cd ~
-wget -O - https://install.perlbrew.pl | bash
+ ~]\> export HOME=/var/lib/openshift/5847da192d527181d500012c/diy
+ ~]\> cd ~
+ ~]\> wget -O - https://install.perlbrew.pl | bash
  ~]\> cd perl5/perlbrew/bin
  ~]\> perl5/perlbrew/bin/perlbrew available
 

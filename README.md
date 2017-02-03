@@ -1,4 +1,4 @@
 # openshift-diy-perl
 
-see install.txt
+# see install.txt
 
